@@ -1,0 +1,303 @@
+<!doctype HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#212A34">
+<meta name="msapplication-navbutton-color" content="#212A34">
+<meta name="apple-mobile-web-app-status-bar-style" content="#212A34">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<title>DjangoPy - Learn, Code, Implement</title>
+
+<meta name="description" content="  DjangoPy is not just another Django website. We provide great, quality tutorials and support for the development of Django community.">
+<meta name="image" content="https://djangopy.org/static/images/logox.png">
+
+<meta itemprop="name" content="DjangoPy - Learn, Code, Implement">
+<meta itemprop="description" content="  DjangoPy is not just another Django website. We provide great, quality tutorials and support for the development of Django community.">
+<meta itemprop="image" content="https://djangopy.org/">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="DjangoPy - Learn, Code, Implement">
+<meta name="twitter:description" content="  DjangoPy is not just another Django website. We provide great, quality tutorials and support for the development of Django community.">
+
+<meta name="og:title" content="DjangoPy - Learn, Code, Implement">
+<meta name="og:description" content="  DjangoPy is not just another Django website. We provide great, quality tutorials and support for the development of Django community.">
+<meta name="og:url" content="https://djangopy.org/">
+<meta name="og:site_name" content="DjangoPy">
+<meta name="og:locale" content="en_US">
+<meta name="og:type" content="website">
+<link rel="canonical" href="https://djangopy.org/"/>
+<link rel="shortcut icon" type="image/x-icon" href="/static/images/favicon.png"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
+<link rel="stylesheet" href="/static/CACHE/css/57a3d853c1ea.css" type="text/css"/>
+</head>
+<body>
+<nav class="navbar navbar-inverse ">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mycollapsenav">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/"><img src="/static/images/logox.png" id="logo"></a>
+</div>
+<div class="collapse navbar-collapse" id="mycollapsenav">
+<ul class="nav navbar-nav nav-items">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="/about">TOPICS<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="/category/how-to/">How To Archives</a></li>
+<li><a href="/category/learn/">Learn Django</a></li>
+<li><a href="/category/package-of-week/">Package of week</a></li>
+</ul>
+</li>
+<li><a href="/about">ABOUT</a></li>
+<li><a href="/contact">CONTACT</a></li>
+<form class="form navbar-form navbar-right post-search-form" method="GET" action="/posts">
+<div class="input-group stylish-input-group">
+<input type="text" placeholder="Search..." name="q" class="form-control post-search"/>
+<div class="input-group-btn">
+<span class="input-group-addon" style="border-radius: 0 4px 4px 0 ; height:30px; padding: 10% 30% 10% 1%;">
+<button type="submit">
+<span class="glyphicon glyphicon-search" style="left:3px;"></span>
+</button>
+</span>
+</div>
+</div>
+</form>
+</ul>
+</div>
+</div>
+</nav>
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up"></i></a>
+<div>
+<div class="container-fluid grid-view">
+<div class="row">
+<div class="col-md-6 block1">
+<div class="block-title">
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><h1 class="block-head">Reverse Engineering of the Django Admin Foreign Key&#39;s Add/Edit Button</h1></a>
+<h4 class="by-author"><small style="color:white">By Jai Singhal | 2 months ago</small></h4>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6 block2">
+<div class="block-title">
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><h2 class="block-head">How to integrate MailChimp on Django to increase Subscribers</h2></a>
+<h4 class="by-author"><small style="color:white">By Jai Singhal | 3 months ago</small></h4>
+</div>
+<div class="row bl3ndbl4">
+<div class="col-md-6 block3">
+<div class="block-title">
+<a href="/how-to/pagination-with-django/"><h3 class="block-head">Pagination with Django</h3></a>
+<h5 class="by-author"><small style="color:white">By Jai Singhal | 3 months ago</small></h5>
+</div>
+</div>
+<div class="col-md-6 block4">
+<div class="block-title">
+<a href="/how-to/how-to-implement-categories-in-django/"><h3 class="block-head">How to Implement Categories in Django</h3></a>
+<h5 class="by-author"><small style="color:white">By Karan Suthar | 1 month, 4 weeks ago</small></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="mycarousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+<ol class="carousel-indicators">
+<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+</ol>
+<div class="carousel-inner">
+<div class="item active">
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><img src="/media/CACHE/images/2017-07-09/Untitled_design_1_1_1_1/bc33ed807a709f71494a2b4a040a4926.jpg" alt="First slide" class="carousel-image"></a>
+<div class="block-title carousel-title">
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><h3 class="carousel-head">Reverse Engineering of the Django Admin Foreign Key&#39;s Add/Edit Button</h3></a>
+<h5 class="by-author"><small style="color:white">By Jai Singhal | 2 months ago</small></h5>
+</div>
+</div>
+<div class="item">
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><img src="/media/CACHE/images/2017-07-09/mailchimp/2e361cd4ccf06601689b0a762f6dfece.jpg" alt="Second slide" class="carousel-image"></a>
+<div class="block-title carousel-title">
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><h3 class="carousel-head">How to integrate MailChimp on Django to increase Subscribers</h3></a>
+<h5 class="by-author"><small style="color:white">By Jai Singhal | 3 months ago</small></h5>
+</div>
+</div>
+<div class="item">
+<a href="/how-to/pagination-with-django/"><img src="/media/CACHE/images/2017-07-09/OB828R0_1/76611d66a5e2b1965f2614279c3db1f3.jpg" alt="Third slide" class="carousel-image"/></a>
+<div class="block-title carousel-title">
+<a href="/how-to/pagination-with-django/"><h3 class="carousel-head">Pagination with Django</h3></a>
+<h5 class="by-author"><small style="color:white">By Jai Singhal | 3 months ago</small></h5>
+</div>
+</div>
+<div class="item">
+<a href="/how-to/how-to-implement-categories-in-django/"><img src="/media/CACHE/images/2017-07-30/categories_in_django_JcOERNg/43ce40a6fd86b3f19e09d77eb8bf12b6.jpeg" alt="Fourth slide" class="carousel-image"/></a>
+<div class="block-title carousel-title">
+<a href="/how-to/how-to-implement-categories-in-django/"><h3 class="carousel-head">How to Implement Categories in Django</h3></a>
+<h5 class="by-author"><small style="color:white">By Karan Suthar | 1 month, 4 weeks ago</small></h5>
+</div>
+</div>
+</div>
+<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left"></span></a><a class="right carousel-control" href="#carousel-example-generic" data-slide="next"><span class="glyphicon glyphicon-chevron-right">
+</span></a>
+</div>
+</div>
+
+<div class="container-fluid main-container">
+<div class="col-md-9 Latest-posts">
+<h2 class="lat-post-heading"> <span class="glyphicon glyphicon-th-large" aria-hidden="true"></span> Latest Posts</h2><hr class="myhr">
+<div class="clearfix">
+<a href="/package-of-week/categories-with-django-mptt/"><img src=" /media/CACHE/images/2017-07-30/categories-with-django-mptt_UpxbnWK/889887c18d6f9fe8c4ae87d277e38526.jpg " alt="categories in django with django-mptt" class="pull-left  gap-right lat-post-img"></a>
+<a href="/package-of-week/categories-with-django-mptt/"><h3 class="lat-post-title">Categories with django-mptt</h3></a>
+<h4 class="lat-post-info"><small>By Karan Suthar | 1 month, 1 week ago</small></h4>
+<p class="lat-post-content">In this post, we&#39;ll learn how to implement categories in Django efficiently by storing hierarchical data in place of making many database queries since database queries are costly in terms of time ... <a href="/package-of-week/categories-with-django-mptt/">Read More</a></p>
+<h4 class="lat-post-info"><small><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 261 views | <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 7 minutes read</small></h4>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/how-to/how-to-implement-categories-in-django/"><img src=" /media/CACHE/images/2017-07-30/categories_in_django_JcOERNg/df750bcba3f1b47196efbc8831e0195c.jpeg " alt="Categories in Django" class="pull-left  gap-right lat-post-img"></a>
+<a href="/how-to/how-to-implement-categories-in-django/"><h3 class="lat-post-title">How to Implement Categories in Django</h3></a>
+<h4 class="lat-post-info"><small>By Karan Suthar | 1 month, 4 weeks ago</small></h4>
+<p class="lat-post-content">In this tutorial, we&#39;ll learn how to implement categories and subcategories in our Django project without using any external module. <a href="/how-to/how-to-implement-categories-in-django/">Read More</a></p>
+<h4 class="lat-post-info"><small><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 428 views | <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 9 minutes read</small></h4>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><img src=" /media/CACHE/images/2017-07-09/Untitled_design_1_1_1_1/dea60684f65c21d71678a1c26a6f7253.jpg " alt="Reverse Engineering the Django Admin Foreign Key&#39;s Cover Image" class="pull-left  gap-right lat-post-img"></a>
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><h3 class="lat-post-title">Reverse Engineering of the Django Admin Foreign Key&#39;s Add/Edit Button</h3></a>
+<h4 class="lat-post-info"><small>By Jai Singhal | 2 months ago</small></h4>
+<p class="lat-post-content">In this tutorial, we will learn about how to add Django Admin&#39;s Foreign key&#39;s Add and Edit feature on Django form, so that we can easily add and edit the Foreign Key element in a pop-up window. <a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/">Read More</a></p>
+<h4 class="lat-post-info"><small><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 523 views | <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 6 minutes read</small></h4>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><img src=" /media/CACHE/images/2017-07-09/mailchimp/f3392d859c0ef24b3b39fb467ba7ee97.jpg " alt="How to integrate MailChimp on Django to increase Subscribers" class="pull-left  gap-right lat-post-img"></a>
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><h3 class="lat-post-title">How to integrate MailChimp on Django to increase Subscribers</h3></a>
+<h4 class="lat-post-info"><small>By Jai Singhal | 3 months ago</small></h4>
+<p class="lat-post-content">In this Post, we will discuss on how to integrate the MailChimp API to your Django Application. This API will help you to provide a platform to send emails to whom who subscribers with your website... <a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/">Read More</a></p>
+<h4 class="lat-post-info"><small><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 384 views | <span class="glyphicon glyphicon-time" aria-hidden="true"></span> 7 minutes read</small></h4>
+</div>
+<hr>
+<span id="load-posts"></span>
+<div id="myDiv">
+<br> <img id="loading-image" src="/static/images/ajax-loader.gif" style="display:none; margin-left: 50%;"/>
+</div><br>
+<button id="load-more-post" post_count="8" class="btn btn-default col-md-12">Load More Posts</button>
+<br><br>
+</div>
+<br>
+
+<div class="col-md-3 side-pannel">
+<h2 class="other-main-head" style="margin-bottom: 30px;">Discover Topics</h2>
+<div class="sidebar-module">
+<a href="/category/how-to"><h4 class="topic-categ">How to Archives</h4></a><hr>
+<a href="/category/learn"><h4 class="topic-categ">Learn Django</h4></a><hr>
+<a href="/category/package-of-week"><h4 class="topic-categ">Package of the week</h4></a><hr>
+</div><br>
+<div>
+<h2 class="other-main-head">Top Posts</h2><br>
+<div class="clearfix">
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><img src="/media/CACHE/images/2017-07-09/Untitled_design_1_1_1_1/1f76322e3996cc057dfbdcb972b39a7e.jpg" alt="Reverse Engineering the Django Admin Foreign Key&#39;s Cover Image" class="pull-left  gap-right top-post-img"></a>
+<a href="/how-to/reverse-engineering-of-the-django-admin-foreign-keys-addedit-button/"><h5 class="top-post-title">Reverse Engineering of the Django Admin Foreign Key&#39;s Add/Edit Button</h5></a>
+<p class="top-post-timestamp"><small>2 months ago</small></p>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/how-to/how-to-implement-categories-in-django/"><img src="/media/CACHE/images/2017-07-30/categories_in_django_JcOERNg/434f8355b374b4526f3c4f113c6f6f51.jpeg" alt="Categories in Django" class="pull-left  gap-right top-post-img"></a>
+<a href="/how-to/how-to-implement-categories-in-django/"><h5 class="top-post-title">How to Implement Categories in Django</h5></a>
+<p class="top-post-timestamp"><small>1 month, 4 weeks ago</small></p>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><img src="/media/CACHE/images/2017-07-09/mailchimp/d53f90011bfe258a6cfe4f230b4bb913.jpg" alt="How to integrate MailChimp on Django to increase Subscribers" class="pull-left  gap-right top-post-img"></a>
+<a href="/package-of-week/how-to-integrate-mailchimp-on-django-to-increase-subscribers/"><h5 class="top-post-title">How to integrate MailChimp on Django to increase Subscribers</h5></a>
+<p class="top-post-timestamp"><small>3 months ago</small></p>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/how-to/pagination-with-django/"><img src="/media/CACHE/images/2017-07-09/OB828R0_1/7741b168b89206eb4b5a3ba541ec4cf2.jpg" alt="Django paginator, pagination with django" class="pull-left  gap-right top-post-img"></a>
+<a href="/how-to/pagination-with-django/"><h5 class="top-post-title">Pagination with Django</h5></a>
+<p class="top-post-timestamp"><small>3 months ago</small></p>
+</div>
+<hr>
+<div class="clearfix">
+<a href="/how-to/making-django-form-google-recaptcha-powered/"><img src="/media/CACHE/images/2017-07-09/recaptcha/fb3591f51e1303420489ea4dd6191106.jpg" alt="Google Recaptcha, recptcha image" class="pull-left  gap-right top-post-img"></a>
+<a href="/how-to/making-django-form-google-recaptcha-powered/"><h5 class="top-post-title">Making Google reCAPTCHA powered Django Form</h5></a>
+<p class="top-post-timestamp"><small>3 months, 1 week ago</small></p>
+</div>
+<hr>
+</div>
+</div>
+</div>
+<footer class="page-footer" style="color:white;">
+<div class="container-fluid footer-container">
+<div class="col-sm-5 footer-info-block" style="margin-top: 30px;">
+<div class="row">
+<div class="col-sm-3 col-xs-3">
+<img src="/static/images/footer_logo.png" alt="Footer logo DjangoPy" class="footer-img">
+</div>
+<div class="col-sm-9 col-xs-9">
+<p style="font-family: 'Roboto', sans-serif, arial; font-size: 14.5px;">DjangoPy is not just another Django website. We provide great, quality tutorials and support for the development of Django community.</p>
+<div class="footer-social-iconset">
+<a href="https://www.facebook.com/djangopy.org" target="_blank"><i class="fa fa-lg fa-facebook footer-social" aria-hidden="true" style></i></a>
+<a href="https://plus.google.com/104767410488423939863" target="_blank"><i class="fa fa-lg fa-google-plus footer-social" aria-hidden="true"></i></a>
+<a href="https://twitter.com/DjangoPy_Admin" target="_blank"><i class="fa fa-lg fa-twitter footer-social" aria-hidden="true"></i></a>
+<a target="_blank" href="https://github.com/djangopy-org"><i class="fa fa-lg fa-github footer-social" aria-hidden="true"></i></a>
+<a href="/cdn-cgi/l/email-protection#1e7a747f7079716e67645e79737f7772307d717321386d6b7c747b7d6a235a747f7079714e673e623e527b7f6c70323e5d717a7b323e57736e727b737b706a387c717a6723766a6a6e6d2431317a747f7079716e6730716c79" target="_self"><i class="fa fa-lg fa-envelope footer-social" aria-hidden="true"></i></a>
+</div>
+</div>
+</div>
+<div class="row footer-bottom-head1">
+<h5 style="font-weight: bold; margin-left: 30px; margin-top: 30px;">COPYRIGHT © 2017 DJANGOPY™ | PROUDLY POWERED BY DJANGO</h5>
+</div>
+</div>
+<div class="col-sm-5 know-us-block">
+<div class="col-md-1"></div>
+<div class="row">
+<div class="col-md-4">
+<a href="/about" target="_blank"><h4 class="about-menu">ABOUT US</h4></a>
+<a href="/contact" target="_blank"><h4 class="about-menu">CONTACT</h4></a>
+<a href="/disclaimer" target="_blank"><h4 class="about-menu">DISCLAIMER</h4></a>
+</div>
+<div class="col-md-4 know-us-right">
+<a href="/term-of-service" target="_blank"><h4 class="about-menu">TERM OF SERVICE</h4></a>
+<a href="/privacy-policy" target="_blank"><h4 class="about-menu">PRIVACY POLICY</h4></a>
+<a href="/sitemap.xml" target="_blank"><h4 class="about-menu">SITEMAP</h4></a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 subscribe-block">
+<div class="subscribe_form">
+<div class="row">
+<h4>Subscribe to Stay Updated</h4>
+<h4><hr class="hrule"/></h4>
+<p>Sign up for our newsletter to get latest updates, news and tutorials on Django. We hate spam as much you do!</p>
+<form id="subscribe" form method="POST"><input type="hidden" name="csrfmiddlewaretoken" value="FoDJ53lPAEIgLflgYJrz2Rc1HTWJpJaksS8jE9JOivlSPsTDePIlp2IT0fKxtHmZ"/>
+<input id="email_id" type="email" name="email_id" placeholder="your@email.com" class="subscribe_input">
+<button class="btn" type="submit" value="Subscribe" id="email_submit" style="width:100%; background-color: #212A34; color: white;">Subscribe</button>
+</form>
+</div>
+</div>
+</div>
+<div class="footer-bottom-head2">
+<h5>COPYRIGHT © 2017 DJANGOPY™ | PROUDLY POWERED BY DJANGO</h5>
+</div>
+<div class="footer-bottom-head3">
+<h5>COPYRIGHT © 2017 DJANGOPY™ </h5><h5> PROUDLY POWERED BY DJANGO</h5>
+</div>
+</footer>
+<script>!function(e,t,r,n,c,h,o){function a(e,t,r,n){for(r='',n='0x'+e.substr(t,2)|0,t+=2;t<e.length;t+=2)r+=String.fromCharCode('0x'+e.substr(t,2)^n);return r}try{for(c=e.getElementsByTagName('a'),o='/cdn-cgi/l/email-protection#',n=0;n<c.length;n++)try{(t=(h=c[n]).href.indexOf(o))>-1&&(h.href='mailto:'+a(h.href,t+o.length))}catch(e){}for(c=e.querySelectorAll('.__cf_email__'),n=0;n<c.length;n++)try{(h=c[n]).parentNode.replaceChild(e.createTextNode(a(h.getAttribute('data-cfemail'),0)),h)}catch(e){}}catch(e){}}(document);</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/CACHE/js/834e14e28de8.js"></script>
+</body>
+</html>
